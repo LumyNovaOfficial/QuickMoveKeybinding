@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.lumyrix.quickmove.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "client-QuickMoveKeybinding+1.17-1.21.11-refmap.json",
+  "client": [
+    "HandledScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,2 @@
+v1	named	intermediary
+FIELD	dev/lumyrix/quickmove/mixin/HandledScreenMixin	Lnet/minecraft/screen/ScreenHandler;	handler	field_2797

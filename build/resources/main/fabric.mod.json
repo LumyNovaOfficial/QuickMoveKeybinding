@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "quickmovekeybinding",
+  "version": "1.0.0",
+  "name": "Quick Move Keybinding",
+  "description": "Lets you bind the quick move key (Shift being the one Minecraft comes with) to another keybind. This mod changes it to CTRL by default, but you can easily change it in the mod's source code. Instructions are provided in the code to guide you through swapping it to any key you want.",
+  "authors": [
+    "LumyRix"
+  ],
+  "license": "All Rights Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.lumyrix.quickmove.QuickMoveKeybinding"
+    ]
+  },
+  "mixins": [
+    "quickmovekeybinding.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": ">=1.17",
+    "java": ">=17"
+  }
+}

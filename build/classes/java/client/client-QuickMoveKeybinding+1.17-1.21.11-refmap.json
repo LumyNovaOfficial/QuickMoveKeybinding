@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "dev/lumyrix/quickmove/mixin/HandledScreenMixin": {
+      "onMouseClick(Lnet/minecraft/screen/slot/Slot;IILnet/minecraft/screen/slot/SlotActionType;)V": "Lnet/minecraft/class_465;method_2383(Lnet/minecraft/class_1735;IILnet/minecraft/class_1713;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "dev/lumyrix/quickmove/mixin/HandledScreenMixin": {
+        "onMouseClick(Lnet/minecraft/screen/slot/Slot;IILnet/minecraft/screen/slot/SlotActionType;)V": "Lnet/minecraft/class_465;method_2383(Lnet/minecraft/class_1735;IILnet/minecraft/class_1713;)V"
+      }
+    }
+  }
+}
